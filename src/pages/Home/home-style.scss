@@ -1,0 +1,19 @@
+.intro {
+    width: 100%;
+    .intro__inner {
+        margin: 14% 0;
+        text-align: center;
+        .title {
+            display: flex;
+            justify-content: center;
+            h1 {
+                padding-top: 20px;
+                font-size: 90px;
+                font-weight: 500;
+            }
+        }
+        p {
+            opacity: .5;
+        }
+    }
+}
